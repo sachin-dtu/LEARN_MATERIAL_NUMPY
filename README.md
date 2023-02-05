@@ -32,7 +32,7 @@ No prior knowledge of Python or data structures is required. The tutorials are s
 Feel free to fork the repository and make changes as you see fit. Pull requests are welcome.
 
 ### **Authors**
-* Your Name - Creator of the tutorials
+* SACHIN KUMAR - Creator of the tutorials
 
 
 ### **Acknowledgments**
