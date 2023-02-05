@@ -8,7 +8,7 @@ These tutorials are hosted on Google Colab, a free Jupyter notebook environment 
 ### **Accessing the Tutorials**
 Follow these steps to access the tutorials:
 
-1. Click on the Colab Notebook link to open the tutorial in Colab.
+1. [Click](https://github.com/sachin-dtu/LEARN_MATERIAL_NUMPY.git) on the Colab Notebook link to open the tutorial in Colab.
 2. Make a copy of the notebook by clicking File and then Save a copy in Drive.
 3. Start running the code blocks and following the tutorials.
 ### **Prerequisites**
