@@ -36,4 +36,4 @@ Feel free to fork the repository and make changes as you see fit. Pull requests 
 
 
 ### **Acknowledgments**
-* Python Docs - Reference for the tutorials
+* Python Docs - Reference  for the tutorials
